@@ -1,0 +1,33 @@
+body{
+    background-color: #f5d9d5;
+    font-family: "Nunilo";
+}
+#mainNavbar{
+    font-size: 1.5rem;
+}
+#mainNavbar .navbar-brand{
+    color: #ea1c2c;
+}
+#mainNavbar .nav-link{
+    color: white;
+}
+#mainNavbar .nav-link:hover{
+    color: #ea1c2c;
+
+}
+#museumhead span{
+    color: #ea1c2c;
+    font-weight: bold;
+
+}
+#museumhead h1{
+    font-weight: 100;
+    font-size: 3rem;
+}
+@media(max-width:1200px){
+    #museumhead h1{
+        font-weight: 100;
+        font-size: 2.5rem;
+    
+
+}
